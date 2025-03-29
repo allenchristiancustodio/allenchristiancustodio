@@ -6,7 +6,6 @@ I'm a **Full Stack Developer** with a passion for creating scalable and efficien
 
 ## 🌐 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/allenchristiancustodio)
-- [GitHub](https://github.com/allenchristiancustodio)
 
 ---
 
